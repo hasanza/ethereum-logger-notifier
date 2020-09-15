@@ -1,0 +1,6 @@
+1. Run the webhook_listener script (node webhook_listener)
+2. Add the new ngrok url as a webhook on the myDemo contract integrations page
+3. Run the myDemo_read_write.js file (node myDemo_read_write)
+4. A notification will pop up upon the increment event happening
+
+*API key needed!
