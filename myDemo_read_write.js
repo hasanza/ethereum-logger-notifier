@@ -5,7 +5,7 @@ const config = {
     //url of the api gateway we are using to deploy to Ethereum
     apiPrefix: 'https://beta-api.ethvigil.com/v0.1/contract/',
     //our secret key that acts like a license key to use the api gateway service
-    apiKey: 'f99ff89f-3430-4c10-8686-648c1ff102a2',
+    apiKey: '<API_KEY>',
     //address of the contract changes to which we are monitoring
     myDemoContractAddress: '0x299d933299118b4e78eb495026607965bd3676ce',
     //addr of the contract that logs changes caused by an address to the above contract
